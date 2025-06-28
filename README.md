@@ -19,5 +19,5 @@ To create a basic **Python keylogger** that captures user keystrokes and logs th
 - The program runs in the background using `pynput`
 - It listens to all keyboard inputs
 - Each key is logged in a timestamped `.txt` file
-- You can stop it manually using `Ctrl + C` or closing the terminal
+- You can stop it manually using `Ctrl + C` or closing the terminal or using 'ESC' key
 
